@@ -1,5 +1,5 @@
 # catalan-sanity-xwalk-unitingclimate-00
-This is a project created by the ESaaS Demo Tool. It is based on [https://github.com/adobe-rnd/aem-boilerplate-xwalk](https://github.com/adobe-rnd/aem-boilerplate-xwalk).
+This is a project created by the ESaaS Demo Tool. It is based on [https://github.com/adobe/aem-boilerplate](https://github.com/adobe/aem-boilerplate).
 
 ## Environments
 - Preview: https://main--catalan-sanity-xwalk-unitingclimate-00--aemdemos.hlx.page/
